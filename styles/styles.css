@@ -71,7 +71,7 @@ p {
   flex-direction: row;
   justify-content: space-between;
   background: #f5f5f5;
-  background-image: url('../images/desk.png');
+  background-image: url('../images/office.png');
   background-repeat: no-repeat;
   background-position: bottom 0px right -300px;
   background-size: cover;
